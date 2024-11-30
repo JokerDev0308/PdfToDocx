@@ -1,8 +1,8 @@
 from pdf2docx import Converter
 
 # Specify the input PDF file and output DOCX file
-input_pdf = 'Swiftlance Work.pdf'
-output_docx = 'Swiftlance Work.docx'
+input_pdf = 'pdf_name.pdf'
+output_docx = 'docx_name.docx'
 
 # Create a Converter object
 cv = Converter(input_pdf)
